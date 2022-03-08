@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(f90ace41-a15c-4d6b-a80f-06081175f2eb), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala:29:30: recursive method loop needs result type[0m
+[0m[[0m[31merror[0m] [0m[0m      if (src == 0) dst else loop(src-1, src*dst)[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed Mar 8, 2022 8:42:05 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

@@ -1,0 +1,533 @@
+2022.03.08 05:58:02 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/lsp.trace.json or /root/.cache/metals/lsp.trace.json
+2022.03.08 05:58:02 INFO  logging to file /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/metals.log
+2022.03.08 05:58:02 INFO  Started: Metals version 0.11.1 in workspace '/app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root' for client Visual Studio Code 1.64.2.
+2022.03.08 05:58:02 INFO  Parse release: 1.8.0_292
+2022.03.08 05:58:03 INFO  time: initialize in 0.66s
+2022.03.08 05:58:03 WARN  Build server is not auto-connectable.
+2022.03.08 05:58:07 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals5826118380840378250/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 05:58:07 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/metals.sbt
+2022.03.08 05:58:07 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/project/metals.sbt
+2022.03.08 05:58:07 INFO  skipping build import with status 'Started'
+2022.03.08 05:58:08 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 05:58:08 INFO  no build target found for /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.1.0
+2022.03.08 05:58:09 INFO  [info] loading settings for project square-root-build-build from metals.sbt ...
+2022.03.08 05:58:09 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/project
+2022.03.08 05:58:11 INFO  [info] loading settings for project square-root-build from metals.sbt ...
+2022.03.08 05:58:11 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project
+2022.03.08 05:58:17 INFO  [success] Generated .bloop/square-root-build.json
+2022.03.08 05:58:17 INFO  [success] Total time: 6 s, completed Mar 8, 2022 5:58:17 AM
+2022.03.08 05:58:17 INFO  [info] loading settings for project square-root from build.sbt ...
+2022.03.08 05:58:17 INFO  [info] set current project to hello-world (in build file:/app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/)
+2022.03.08 05:58:20 INFO  [success] Generated .bloop/square-root.json
+2022.03.08 05:58:20 INFO  [success] Generated .bloop/square-root-test.json
+2022.03.08 05:58:20 INFO  [success] Total time: 2 s, completed Mar 8, 2022 5:58:20 AM
+2022.03.08 05:58:20 INFO  time: ran 'sbt bloopInstall' in 13s
+2022.03.08 05:58:20 INFO  Attempting to connect to the build server...
+2022.03.08 05:58:23 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 05:58:25 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 05:58:34 INFO  Attempting to connect to the build server...
+2022.03.08 05:58:35 INFO  Attempting to connect to the build server...
+2022.03.08 05:58:35 INFO  Attempting to connect to the build server...
+2022.03.08 05:58:37 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals8587261924039024934/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 05:58:37 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals5779250738818567301/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 05:58:37 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals6796258749633456625/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 05:58:38 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 05:58:39 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 05:58:39 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 05:58:38 INFO  [info] loading settings for project square-root-build-build from metals.sbt ...
+2022.03.08 05:58:39 INFO  [info] loading settings for project square-root-build-build from metals.sbt ...
+2022.03.08 05:58:40 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/project
+2022.03.08 05:58:39 INFO  [info] loading settings for project square-root-build-build from metals.sbt ...
+2022.03.08 05:58:40 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/project
+2022.03.08 05:58:40 INFO  [info] loading settings for project square-root-build from metals.sbt ...
+2022.03.08 05:58:40 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/project
+2022.03.08 05:58:40 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project
+2022.03.08 05:58:40 INFO  [info] loading settings for project square-root-build from metals.sbt ...
+2022.03.08 05:58:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:58:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:58:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:58:40 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project
+2022.03.08 05:58:40 INFO  [info] loading settings for project square-root-build from metals.sbt ...
+2022.03.08 05:58:41 ERROR [info] waiting for lock on /root/.ivy2/exclude_classifiers.lock to be available...
+2022.03.08 05:58:40 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project
+2022.03.08 05:58:41 ERROR [info] waiting for lock on /root/.ivy2/exclude_classifiers.lock to be available...
+2022.03.08 05:58:42 INFO  [success] Generated .bloop/square-root-build.json
+2022.03.08 05:58:42 INFO  [success] Total time: 1 s, completed Mar 8, 2022 5:58:42 AM
+2022.03.08 05:58:42 INFO  [info] loading settings for project square-root from build.sbt ...
+2022.03.08 05:58:42 INFO  [info] set current project to hello-world (in build file:/app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/)
+2022.03.08 05:58:42 INFO  [success] Generated .bloop/square-root.json
+2022.03.08 05:58:42 INFO  [success] Generated .bloop/square-root-test.json
+2022.03.08 05:58:42 INFO  [success] Total time: 0 s, completed Mar 8, 2022 5:58:42 AM
+2022.03.08 05:58:42 INFO  time: ran 'sbt bloopInstall' in 5.15s
+2022.03.08 05:58:42 INFO  Attempting to connect to the build server...
+2022.03.08 05:58:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:58:43 INFO  Attempting to connect to the build server...
+2022.03.08 05:58:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:58:43 INFO  [success] Generated .bloop/square-root-build.json
+2022.03.08 05:58:43 INFO  [success] Total time: 2 s, completed Mar 8, 2022 5:58:43 AM
+2022.03.08 05:58:43 INFO  [info] loading settings for project square-root from build.sbt ...
+2022.03.08 05:58:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:58:43 INFO  Attempting to connect to the build server...
+2022.03.08 05:58:43 INFO  [info] set current project to hello-world (in build file:/app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/)
+2022.03.08 05:58:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:58:43 INFO  [success] Generated .bloop/square-root-test.json
+2022.03.08 05:58:43 INFO  [success] Generated .bloop/square-root.json
+2022.03.08 05:58:43 INFO  [success] Total time: 0 s, completed Mar 8, 2022 5:58:43 AM
+2022.03.08 05:58:43 INFO  time: ran 'sbt bloopInstall' in 5.73s
+2022.03.08 05:58:43 INFO  Attempting to connect to the build server...
+2022.03.08 05:58:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:58:44 INFO  Attempting to connect to the build server...
+2022.03.08 05:58:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:58:44 INFO  [success] Generated .bloop/square-root-build.json
+2022.03.08 05:58:44 INFO  [success] Total time: 3 s, completed Mar 8, 2022 5:58:44 AM
+2022.03.08 05:58:44 INFO  [info] loading settings for project square-root from build.sbt ...
+2022.03.08 05:58:44 INFO  [info] set current project to hello-world (in build file:/app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/)
+2022.03.08 05:58:44 INFO  [success] Generated .bloop/square-root-test.json
+2022.03.08 05:58:44 INFO  [success] Generated .bloop/square-root.json
+2022.03.08 05:58:44 INFO  [success] Total time: 0 s, completed Mar 8, 2022 5:58:44 AM
+2022.03.08 05:58:44 INFO  time: ran 'sbt bloopInstall' in 6.51s
+2022.03.08 05:58:44 INFO  Attempting to connect to the build server...
+2022.03.08 05:58:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:58:44 INFO  Attempting to connect to the build server...
+2022.03.08 05:58:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:58:46 INFO  time: Connected to build server in 1.61s
+2022.03.08 05:58:46 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 05:58:46 INFO  time: Connected to build server in 3.53s
+2022.03.08 05:58:46 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 05:58:46 INFO  time: Connected to build server in 2.66s
+2022.03.08 05:58:46 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 05:58:49 ERROR error processing file:///root/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8-sources.jar
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PUBLIC.PRIMARY_KEY_E ON PUBLIC.INDEXED_JAR(MD5) VALUES ( /* 2 */ '2B459AEC3114B9F1BEB442FC4EB218BE' )"; SQL statement:
+insert into indexed_jar (md5) values (?) [23505-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:459)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.index.BaseIndex.getDuplicateKeyException(BaseIndex.java:103)
+	at org.h2.pagestore.db.PageBtree.find(PageBtree.java:120)
+	at org.h2.pagestore.db.PageBtreeLeaf.addRow(PageBtreeLeaf.java:148)
+	at org.h2.pagestore.db.PageBtreeLeaf.addRowTry(PageBtreeLeaf.java:101)
+	at org.h2.pagestore.db.PageBtreeIndex.addRow(PageBtreeIndex.java:98)
+	at org.h2.pagestore.db.PageBtreeIndex.add(PageBtreeIndex.java:89)
+	at org.h2.pagestore.db.PageStoreTable.addRow(PageStoreTable.java:89)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:195)
+	at org.h2.command.dml.Insert.update(Insert.java:151)
+	at org.h2.command.CommandContainer.executeUpdateWithGeneratedKeys(CommandContainer.java:272)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:191)
+	at org.h2.command.Command.executeUpdate(Command.java:251)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:191)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:152)
+	at scala.meta.internal.metals.JarTopLevels.putTopLevels(JarTopLevels.scala:77)
+	at scala.meta.internal.metals.MetalsLanguageServer.addSourceJarSymbols(MetalsLanguageServer.scala:2569)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexDependencySources$8(MetalsLanguageServer.scala:2527)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:985)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:984)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexDependencySources$3(MetalsLanguageServer.scala:2515)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexDependencySources$3$adapted(MetalsLanguageServer.scala:2514)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexDependencySources$2(MetalsLanguageServer.scala:2514)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexDependencySources$2$adapted(MetalsLanguageServer.scala:2513)
+	at scala.collection.Iterator.foreach(Iterator.scala:943)
+	at scala.collection.Iterator.foreach$(Iterator.scala:943)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1431)
+	at scala.collection.IterableLike.foreach(IterableLike.scala:74)
+	at scala.collection.IterableLike.foreach$(IterableLike.scala:73)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:56)
+	at scala.meta.internal.metals.MetalsLanguageServer.indexDependencySources(MetalsLanguageServer.scala:2513)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexWorkspace$10(MetalsLanguageServer.scala:2455)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.indexWorkspace(MetalsLanguageServer.scala:2455)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$profiledIndexWorkspace$2(MetalsLanguageServer.scala:2347)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$profiledIndexWorkspace$1(MetalsLanguageServer.scala:2347)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2022.03.08 05:58:49 ERROR error processing file:///root/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8-sources.jar
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PUBLIC.PRIMARY_KEY_E ON PUBLIC.INDEXED_JAR(MD5) VALUES ( /* 3 */ '2B459AEC3114B9F1BEB442FC4EB218BE' )"; SQL statement:
+insert into indexed_jar (md5) values (?) [23505-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:459)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.index.BaseIndex.getDuplicateKeyException(BaseIndex.java:103)
+	at org.h2.pagestore.db.PageBtree.find(PageBtree.java:120)
+	at org.h2.pagestore.db.PageBtreeLeaf.addRow(PageBtreeLeaf.java:148)
+	at org.h2.pagestore.db.PageBtreeLeaf.addRowTry(PageBtreeLeaf.java:101)
+	at org.h2.pagestore.db.PageBtreeIndex.addRow(PageBtreeIndex.java:98)
+	at org.h2.pagestore.db.PageBtreeIndex.add(PageBtreeIndex.java:89)
+	at org.h2.pagestore.db.PageStoreTable.addRow(PageStoreTable.java:89)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:195)
+	at org.h2.command.dml.Insert.update(Insert.java:151)
+	at org.h2.command.CommandContainer.executeUpdateWithGeneratedKeys(CommandContainer.java:272)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:191)
+	at org.h2.command.Command.executeUpdate(Command.java:251)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:191)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:152)
+	at scala.meta.internal.metals.JarTopLevels.putTopLevels(JarTopLevels.scala:77)
+	at scala.meta.internal.metals.MetalsLanguageServer.addSourceJarSymbols(MetalsLanguageServer.scala:2569)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexDependencySources$8(MetalsLanguageServer.scala:2527)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:985)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:984)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexDependencySources$3(MetalsLanguageServer.scala:2515)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexDependencySources$3$adapted(MetalsLanguageServer.scala:2514)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexDependencySources$2(MetalsLanguageServer.scala:2514)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexDependencySources$2$adapted(MetalsLanguageServer.scala:2513)
+	at scala.collection.Iterator.foreach(Iterator.scala:943)
+	at scala.collection.Iterator.foreach$(Iterator.scala:943)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1431)
+	at scala.collection.IterableLike.foreach(IterableLike.scala:74)
+	at scala.collection.IterableLike.foreach$(IterableLike.scala:73)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:56)
+	at scala.meta.internal.metals.MetalsLanguageServer.indexDependencySources(MetalsLanguageServer.scala:2513)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$indexWorkspace$10(MetalsLanguageServer.scala:2455)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.indexWorkspace(MetalsLanguageServer.scala:2455)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$profiledIndexWorkspace$2(MetalsLanguageServer.scala:2347)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$profiledIndexWorkspace$1(MetalsLanguageServer.scala:2347)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2022.03.08 05:58:49 INFO  time: indexed workspace in 3.58s
+2022.03.08 05:58:50 INFO  time: indexed workspace in 3.58s
+2022.03.08 05:58:49 INFO  time: indexed workspace in 3.71s
+2022.03.08 05:58:52 INFO  compiling square-root (1 scala source)
+2022.03.08 05:58:58 INFO  time: compiled square-root in 6.14s
+2022.03.08 05:59:01 ERROR Timeout waiting for 'build/initialize' response
+2022.03.08 05:59:01 ERROR Timeout waiting for 'build/initialize' response
+2022.03.08 05:59:01 ERROR Timeout waiting for 'build/initialize' response
+2022.03.08 05:59:01 WARN  Retrying connection to the build server Bloop
+2022.03.08 05:59:01 WARN  Retrying connection to the build server Bloop
+2022.03.08 05:59:01 WARN  Retrying connection to the build server Bloop
+2022.03.08 05:59:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:59:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:59:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:59:01 INFO  Attempting to connect to the build server...
+2022.03.08 05:59:01 INFO  Attempting to connect to the build server...
+2022.03.08 05:59:01 INFO  Attempting to connect to the build server...
+2022.03.08 05:59:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:59:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:59:01 INFO  time: Connected to build server in 25s
+2022.03.08 05:59:01 INFO  time: Connected to build server in 25s
+2022.03.08 05:59:01 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 05:59:01 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 05:59:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:59:01 INFO  time: Connected to build server in 40s
+2022.03.08 05:59:01 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 05:59:01 INFO  time: indexed workspace in 0.45s
+2022.03.08 05:59:01 INFO  time: indexed workspace in 0.44s
+2022.03.08 05:59:01 INFO  time: indexed workspace in 0.44s
+2022.03.08 05:59:03 ERROR Timeout waiting for 'build/initialize' response
+2022.03.08 05:59:03 WARN  Retrying connection to the build server Bloop
+2022.03.08 05:59:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 05:59:03 INFO  time: Connected to build server in 29s
+2022.03.08 05:59:03 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 05:59:03 INFO  time: indexed workspace in 0.27s
+error: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/.tmp/.metals/.tmp/Main7869150120018825959.scala is not a file
+error: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/.tmp/.metals/.tmp/Main-2861444268431673900.scala is not a file
+error: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/.tmp/.metals/.tmp/Main-4341611331586092345.scala is not a file
+error: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/.tmp/.metals/.tmp/Main-9105962565239502338.scala is not a file
+error: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/.tmp/.metals/.tmp/Main7772764669008943440.scala is not a file
+error: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/.tmp/.metals/.tmp/Main-9105962565239502338.scala is not a file
+error: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/.tmp/.metals/.tmp/Main-2861444268431673900.scala is not a file
+error: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/.tmp/.metals/.tmp/Main7772764669008943440.scala is not a file
+2022.03.08 05:59:52 INFO  compiling square-root (1 scala source)
+2022.03.08 05:59:52 INFO  time: compiled square-root in 0.43s
+2022.03.08 06:00:02 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 06:00:02 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 06:00:02 INFO  Starting debug proxy for [Main]
+2022.03.08 06:00:02 INFO  Trying to attach to remote debuggee VM localhost:38185 .
+2022.03.08 06:00:02 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 06:00:02 INFO  Canceling debug proxy for [Main]
+2022.03.08 06:00:02 INFO  Closing debug server tcp://0.0.0.0:38367
+2022.03.08 06:02:46 INFO  compiling square-root (1 scala source)
+2022.03.08 06:02:46 INFO  time: compiled square-root in 0.1s
+2022.03.08 06:04:37 INFO  compiling square-root (1 scala source)
+2022.03.08 06:04:37 INFO  time: compiled square-root in 44ms
+Mar 08, 2022 6:09:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 08, 2022 6:46:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 715
+Mar 08, 2022 6:46:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 751
+2022.03.08 06:47:02 INFO  compiling square-root (1 scala source)
+2022.03.08 06:47:02 INFO  time: compiled square-root in 49ms
+2022.03.08 06:48:06 INFO  compiling square-root (1 scala source)
+2022.03.08 06:48:06 INFO  time: compiled square-root in 0.44s
+Mar 08, 2022 6:48:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 989
+Mar 08, 2022 6:49:18 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+2022.03.08 06:49:44 INFO  compiling square-root (1 scala source)
+2022.03.08 06:49:44 INFO  time: compiled square-root in 0.45s
+2022.03.08 06:49:52 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 51m 9.373s)
+2022.03.08 06:49:52 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 06:49:52 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 06:49:52 INFO  Starting debug proxy for [Main]
+2022.03.08 06:49:52 INFO  Trying to attach to remote debuggee VM localhost:32933 .
+2022.03.08 06:49:52 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 06:49:53 INFO  Canceling debug proxy for [Main]
+2022.03.08 06:49:52 INFO  Closing debug server tcp://0.0.0.0:39513
+2022.03.08 06:50:00 INFO  compiling square-root (1 scala source)
+2022.03.08 06:50:00 INFO  time: compiled square-root in 0.43s
+2022.03.08 06:50:02 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 51m 19.55s)
+2022.03.08 06:50:02 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 06:50:02 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 06:50:03 INFO  Starting debug proxy for [Main]
+2022.03.08 06:50:02 INFO  Trying to attach to remote debuggee VM localhost:40835 .
+2022.03.08 06:50:02 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 06:50:03 INFO  Canceling debug proxy for [Main]
+2022.03.08 06:50:02 INFO  Closing debug server tcp://0.0.0.0:34499
+Mar 08, 2022 6:52:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1278
+2022.03.08 06:52:53 INFO  compiling square-root (1 scala source)
+2022.03.08 06:52:53 INFO  time: compiled square-root in 0.6s
+2022.03.08 06:53:15 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 54m 32.338s)
+2022.03.08 06:53:15 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 06:53:15 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 06:53:15 INFO  Starting debug proxy for [Main]
+2022.03.08 06:53:15 INFO  Trying to attach to remote debuggee VM localhost:46659 .
+2022.03.08 06:53:15 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 06:53:29 INFO  Canceling debug proxy for [Main]
+2022.03.08 06:53:29 INFO  Closing debug server tcp://0.0.0.0:41121
+2022.03.08 06:53:59 INFO  compiling square-root (1 scala source)
+2022.03.08 06:53:59 INFO  time: compiled square-root in 0.41s
+2022.03.08 06:54:51 INFO  compiling square-root (1 scala source)
+2022.03.08 06:54:51 INFO  time: compiled square-root in 0.41s
+2022.03.08 06:54:56 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 56m 13.173s)
+2022.03.08 06:54:56 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 06:54:56 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 06:54:56 INFO  Starting debug proxy for [Main]
+2022.03.08 06:54:56 INFO  Trying to attach to remote debuggee VM localhost:42399 .
+2022.03.08 06:54:56 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 06:54:56 INFO  Canceling debug proxy for [Main]
+2022.03.08 06:54:56 INFO  Closing debug server tcp://0.0.0.0:43265
+2022.03.08 06:55:24 INFO  compiling square-root (1 scala source)
+2022.03.08 06:55:24 INFO  time: compiled square-root in 0.41s
+2022.03.08 06:55:28 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 56m 44.746s)
+2022.03.08 06:55:28 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 06:55:28 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 06:55:28 INFO  Starting debug proxy for [Main]
+2022.03.08 06:55:28 INFO  Trying to attach to remote debuggee VM localhost:40439 .
+2022.03.08 06:55:28 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 06:55:28 INFO  Canceling debug proxy for [Main]
+2022.03.08 06:55:28 INFO  Closing debug server tcp://0.0.0.0:39659
+2022.03.08 06:56:49 INFO  compiling square-root (1 scala source)
+2022.03.08 06:56:49 INFO  time: compiled square-root in 0.41s
+2022.03.08 06:56:51 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 58m 7.897s)
+2022.03.08 06:56:51 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 06:56:51 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 06:56:51 INFO  Starting debug proxy for [Main]
+2022.03.08 06:56:51 INFO  Trying to attach to remote debuggee VM localhost:46343 .
+2022.03.08 06:56:51 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 06:56:51 INFO  Canceling debug proxy for [Main]
+2022.03.08 06:56:51 INFO  Closing debug server tcp://0.0.0.0:44035
+2022.03.08 06:56:55 INFO  compiling square-root (1 scala source)
+2022.03.08 06:56:55 INFO  time: compiled square-root in 0.4s
+2022.03.08 06:56:58 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 58m 15.311s)
+2022.03.08 06:56:58 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 06:56:58 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 06:56:58 INFO  Starting debug proxy for [Main]
+2022.03.08 06:56:58 INFO  Trying to attach to remote debuggee VM localhost:42927 .
+2022.03.08 06:56:58 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 06:56:59 INFO  Canceling debug proxy for [Main]
+2022.03.08 06:56:58 INFO  Closing debug server tcp://0.0.0.0:45311
+2022.03.08 06:58:19 INFO  compiling square-root (1 scala source)
+2022.03.08 06:58:19 INFO  time: compiled square-root in 0.41s
+2022.03.08 06:58:22 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 59m 39.367s)
+2022.03.08 06:58:22 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 06:58:22 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 06:58:22 INFO  Starting debug proxy for [Main]
+2022.03.08 06:58:22 INFO  Trying to attach to remote debuggee VM localhost:40775 .
+2022.03.08 06:58:22 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 06:58:23 INFO  Canceling debug proxy for [Main]
+2022.03.08 06:58:22 INFO  Closing debug server tcp://0.0.0.0:42589
+2022.03.08 07:00:28 INFO  compiling square-root (1 scala source)
+2022.03.08 07:00:28 INFO  time: compiled square-root in 0.41s
+2022.03.08 07:00:33 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 1h 1m 50.612s)
+2022.03.08 07:00:33 INFO  compiling square-root (1 scala source)
+2022.03.08 07:00:33 INFO  compiling square-root (1 scala source)
+2022.03.08 07:00:33 INFO  time: compiled square-root in 0.41s
+2022.03.08 07:00:34 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 07:00:34 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 07:00:34 INFO  Starting debug proxy for [Main]
+2022.03.08 07:00:33 INFO  Trying to attach to remote debuggee VM localhost:45955 .
+2022.03.08 07:00:33 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 07:00:34 INFO  Canceling debug proxy for [Main]
+2022.03.08 07:00:33 INFO  Closing debug server tcp://0.0.0.0:33435
+2022.03.08 07:01:41 INFO  compiling square-root (1 scala source)
+2022.03.08 07:01:41 INFO  time: compiled square-root in 0.41s
+2022.03.08 07:01:44 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 1h 3m 1.07s)
+2022.03.08 07:01:44 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 07:01:44 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 07:01:44 INFO  Starting debug proxy for [Main]
+2022.03.08 07:01:44 INFO  Trying to attach to remote debuggee VM localhost:39689 .
+2022.03.08 07:01:44 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 07:01:44 INFO  Canceling debug proxy for [Main]
+2022.03.08 07:01:44 INFO  Closing debug server tcp://0.0.0.0:39841
+2022.03.08 07:02:29 INFO  compiling square-root (1 scala source)
+2022.03.08 07:02:29 INFO  time: compiled square-root in 0.4s
+2022.03.08 07:02:31 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 1h 3m 47.884s)
+2022.03.08 07:02:31 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 07:02:31 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 07:02:31 INFO  Starting debug proxy for [Main]
+2022.03.08 07:02:31 INFO  Trying to attach to remote debuggee VM localhost:34063 .
+2022.03.08 07:02:31 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 07:02:31 INFO  Canceling debug proxy for [Main]
+2022.03.08 07:02:31 INFO  Closing debug server tcp://0.0.0.0:44287
+2022.03.08 07:02:51 INFO  compiling square-root (1 scala source)
+2022.03.08 07:02:51 INFO  time: compiled square-root in 0.4s
+2022.03.08 07:02:54 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 1h 4m 11.177s)
+2022.03.08 07:02:54 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 07:02:54 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 07:02:54 INFO  Starting debug proxy for [Main]
+2022.03.08 07:02:54 INFO  Trying to attach to remote debuggee VM localhost:44155 .
+2022.03.08 07:02:54 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 07:02:54 INFO  Canceling debug proxy for [Main]
+2022.03.08 07:02:54 INFO  Closing debug server tcp://0.0.0.0:46879
+2022.03.08 08:09:45 INFO  compiling square-root (1 scala source)
+2022.03.08 08:09:45 INFO  time: compiled square-root in 0.58s
+2022.03.08 08:10:05 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals4861244185655430489/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:10:06 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:10:06 INFO  [info] loading settings for project square-root-build-build from metals.sbt ...
+2022.03.08 08:10:07 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/project
+2022.03.08 08:10:07 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals5391560737760604432/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:10:07 INFO  [info] loading settings for project square-root-build from metals.sbt ...
+2022.03.08 08:10:07 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project
+2022.03.08 08:10:08 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:10:08 INFO  [info] loading settings for project square-root-build-build from metals.sbt ...
+2022.03.08 08:10:09 INFO  [success] Generated .bloop/square-root-build.json
+2022.03.08 08:10:09 INFO  [success] Total time: 1 s, completed Mar 8, 2022 8:10:09 AM
+2022.03.08 08:10:09 INFO  [info] loading settings for project square-root from build.sbt ...
+2022.03.08 08:10:09 INFO  [info] set current project to hello-world (in build file:/app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/)
+2022.03.08 08:10:09 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/project
+2022.03.08 08:10:09 INFO  [success] Generated .bloop/square-root-test.json
+2022.03.08 08:10:09 INFO  [success] Generated .bloop/square-root.json
+2022.03.08 08:10:09 INFO  [success] Total time: 0 s, completed Mar 8, 2022 8:10:09 AM
+2022.03.08 08:10:10 INFO  time: ran 'sbt bloopInstall' in 4.53s
+2022.03.08 08:10:10 INFO  Disconnecting from Bloop session...
+2022.03.08 08:10:10 INFO  Shut down connection with build server.
+2022.03.08 08:10:10 INFO  Shut down connection with build server.
+2022.03.08 08:10:10 INFO  Attempting to connect to the build server...
+2022.03.08 08:10:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:10:10 INFO  Attempting to connect to the build server...
+2022.03.08 08:10:09 INFO  [info] loading settings for project square-root-build from metals.sbt ...
+2022.03.08 08:10:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:10:10 INFO  time: Connected to build server in 0.11s
+2022.03.08 08:10:10 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:10:09 INFO  [info] loading project definition from /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project
+2022.03.08 08:10:10 INFO  time: indexed workspace in 0.35s
+2022.03.08 08:10:11 INFO  [success] Generated .bloop/square-root-build.json
+2022.03.08 08:10:11 INFO  [success] Total time: 1 s, completed Mar 8, 2022 8:10:11 AM
+2022.03.08 08:10:11 INFO  [info] loading settings for project square-root from build.sbt ...
+2022.03.08 08:10:11 INFO  [info] set current project to hello-world (in build file:/app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/)
+2022.03.08 08:10:11 INFO  [success] Generated .bloop/square-root.json
+2022.03.08 08:10:11 INFO  [success] Generated .bloop/square-root-test.json
+2022.03.08 08:10:11 INFO  [success] Total time: 0 s, completed Mar 8, 2022 8:10:12 AM
+2022.03.08 08:10:12 INFO  time: ran 'sbt bloopInstall' in 4.55s
+2022.03.08 08:10:12 INFO  Disconnecting from Bloop session...
+2022.03.08 08:10:12 INFO  Shut down connection with build server.
+2022.03.08 08:10:12 INFO  Shut down connection with build server.
+2022.03.08 08:10:12 INFO  Attempting to connect to the build server...
+2022.03.08 08:10:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:10:12 INFO  Attempting to connect to the build server...
+2022.03.08 08:10:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:10:12 INFO  time: Connected to build server in 70ms
+2022.03.08 08:10:12 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:10:12 INFO  time: indexed workspace in 0.28s
+Mar 08, 2022 8:17:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1773
+Mar 08, 2022 8:17:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1775
+Mar 08, 2022 8:17:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1797
+Mar 08, 2022 8:17:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1840
+2022.03.08 08:18:33 INFO  compiling square-root (1 scala source)
+2022.03.08 08:18:33 INFO  time: compiled square-root in 33ms
+2022.03.08 08:18:37 INFO  compiling square-root (1 scala source)
+2022.03.08 08:18:37 INFO  time: compiled square-root in 0.4s
+2022.03.08 08:21:48 INFO  compiling square-root (1 scala source)
+2022.03.08 08:21:48 INFO  time: compiled square-root in 0.4s
+2022.03.08 08:22:51 INFO  compiling square-root (1 scala source)
+2022.03.08 08:22:51 INFO  time: compiled square-root in 0.4s
+Mar 08, 2022 8:24:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2290
+2022.03.08 08:26:09 INFO  compiling square-root (1 scala source)
+2022.03.08 08:26:09 INFO  time: compiled square-root in 0.4s
+2022.03.08 08:26:28 INFO  compiling square-root (1 scala source)
+2022.03.08 08:26:28 INFO  time: compiled square-root in 0.4s
+2022.03.08 08:26:32 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 16m 20.28s)
+2022.03.08 08:26:32 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 08:26:32 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 08:26:32 INFO  Starting debug proxy for [Main]
+2022.03.08 08:26:32 INFO  Trying to attach to remote debuggee VM localhost:36439 .
+2022.03.08 08:26:32 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 08:26:33 INFO  Canceling debug proxy for [Main]
+2022.03.08 08:26:32 INFO  Closing debug server tcp://0.0.0.0:38585
+2022.03.08 08:26:43 INFO  compiling square-root (1 scala source)
+2022.03.08 08:26:43 INFO  time: compiled square-root in 0.44s
+2022.03.08 08:26:45 INFO  Deduplicating compilation of square-root from bsp client 'Metals 0.11.1' (since 16m 33.217s)
+2022.03.08 08:26:45 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 08:26:45 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 08:26:45 INFO  Starting debug proxy for [Main]
+2022.03.08 08:26:45 INFO  Trying to attach to remote debuggee VM localhost:39051 .
+2022.03.08 08:26:45 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 08:26:45 INFO  Canceling debug proxy for [Main]
+2022.03.08 08:26:45 INFO  Closing debug server tcp://0.0.0.0:33471
+2022.03.08 08:37:42 INFO  shutting down Metals
+2022.03.08 08:37:42 INFO  Shut down connection with build server.
+2022.03.08 08:37:42 INFO  Shut down connection with build server.
+2022.03.08 08:48:38 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/lsp.trace.json or /root/.cache/metals/lsp.trace.json
+2022.03.08 08:48:38 INFO  logging to file /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/metals.log
+2022.03.08 08:48:38 INFO  Started: Metals version 0.11.1 in workspace '/app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root' for client Visual Studio Code 1.64.2.
+2022.03.08 08:48:38 INFO  Parse release: 1.8.0_292
+2022.03.08 08:48:39 INFO  time: initialize in 0.67s
+2022.03.08 08:48:39 INFO  Attempting to connect to the build server...
+2022.03.08 08:48:39 INFO  skipping build import with status 'Installed'
+2022.03.08 08:48:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:48:40 INFO  Attempting to connect to the build server...
+2022.03.08 08:48:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:48:40 INFO  time: Connected to build server in 0.34s
+2022.03.08 08:48:40 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:48:41 INFO  no build target found for /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.03.08 08:48:42 INFO  time: code lens generation in 2.11s
+2022.03.08 08:48:43 INFO  time: indexed workspace in 2.82s
+2022.03.08 08:48:43 INFO  compiling square-root (1 scala source)
+2022.03.08 08:48:45 INFO  time: compiled square-root in 2.35s
+2022.03.08 08:48:50 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-server.trace.json or /root/.cache/metals/dap-server.trace.json
+2022.03.08 08:48:50 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.metals/dap-client.trace.json or /root/.cache/metals/dap-client.trace.json
+2022.03.08 08:48:51 INFO  Starting debug proxy for [Main]
+2022.03.08 08:48:51 INFO  Trying to attach to remote debuggee VM localhost:35985 .
+2022.03.08 08:48:51 INFO  Attaching to debuggee VM succeeded.
+2022.03.08 08:48:51 INFO  Canceling debug proxy for [Main]
+2022.03.08 08:48:51 INFO  Closing debug server tcp://0.0.0.0:44077
+2022.03.08 08:48:56 INFO  shutting down Metals
+2022.03.08 08:48:56 INFO  Shut down connection with build server.
+2022.03.08 08:48:56 INFO  Shut down connection with build server.

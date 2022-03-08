@@ -1,0 +1,483 @@
+2022.03.07 09:09:06 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/lsp.trace.json or /root/.cache/metals/lsp.trace.json
+2022.03.07 09:09:06 INFO  logging to file /app/.metals/metals.log
+2022.03.07 09:09:06 INFO  Started: Metals version 0.11.1 in workspace '/app' for client Visual Studio Code 1.64.2.
+2022.03.07 09:09:06 INFO  Parse release: 1.8.0_292
+2022.03.07 09:09:09 INFO  time: initialize in 2.44s
+2022.03.07 09:09:09 WARN  Build server is not auto-connectable.
+2022.03.07 09:09:09 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/project/StudentTasks.scala
+2022.03.07 09:09:23 INFO  no build target found for /app/Functional Programming Principles in Scala (Scala 2 version)/week1/project/StudentTasks.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.03.07 09:09:24 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+Mar 07, 2022 9:09:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2022.03.07 09:09:25 INFO  time: code lens generation in 14s
+2022.03.07 09:09:25 INFO  time: code lens generation in 1.2s
+2022.03.07 09:09:25 INFO  time: code lens generation in 1.18s
+2022.03.07 09:09:25 INFO  time: code lens generation in 1.2s
+2022.03.07 09:15:31 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/test/scala/example/ListsSuite.scala
+2022.03.07 09:16:07 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/build.sbt
+2022.03.07 09:22:05 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/project/plugins.sbt
+2022.03.07 09:22:06 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/project/StudentTasks.scala
+2022.03.07 09:22:27 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/assignment.sbt
+2022.03.07 09:22:30 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/build.sbt
+2022.03.07 09:23:11 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/assignment.sbt
+2022.03.07 09:32:18 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+Mar 07, 2022 9:35:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 604
+Mar 07, 2022 9:36:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 758
+2022.03.07 09:36:44 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 09:42:08 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/project/StudentTasks.scala
+2022.03.07 09:42:26 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/build.sbt
+2022.03.07 09:43:47 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 09:43:54 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 09:43:58 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 09:46:19 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+Mar 07, 2022 9:46:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1059
+2022.03.07 09:46:53 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+Mar 07, 2022 9:51:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1624
+Mar 07, 2022 9:52:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1698
+Mar 07, 2022 9:52:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1754
+Mar 07, 2022 9:54:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2063
+2022.03.07 09:54:55 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+Mar 07, 2022 9:57:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2525
+Mar 07, 2022 9:57:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2543
+2022.03.07 09:57:53 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 09:59:46 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 10:00:04 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 10:00:15 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 10:00:27 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 10:01:07 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 10:01:27 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 10:02:03 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 10:02:27 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 10:05:08 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+Mar 07, 2022 10:05:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3387
+Mar 07, 2022 10:06:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3646
+Mar 07, 2022 10:06:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3699
+2022.03.07 10:06:54 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.07 10:08:57 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/src/main/scala/example/Lists.scala
+2022.03.08 03:20:37 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/getting-started/src/main/scala/example/Lists.scala
+2022.03.08 03:20:37 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/getting-started/src/test/scala/example/ListsSuite.scala
+2022.03.08 05:48:49 INFO  
+2022.03.08 05:48:49 INFO  Template applied in /app/Functional Programming Principles in Scala (Scala 2 version)/week1/./recursion
+2022.03.08 05:48:49 INFO  
+2022.03.08 05:48:49 INFO  time: ran 'giter8.Giter8' in 4.63s
+2022.03.08 05:48:53 INFO  shutting down Metals
+2022.03.08 05:50:53 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/lsp.trace.json or /root/.cache/metals/lsp.trace.json
+2022.03.08 05:50:54 INFO  logging to file /app/.metals/metals.log
+2022.03.08 05:50:54 INFO  Started: Metals version 0.11.1 in workspace '/app' for client Visual Studio Code 1.64.2.
+2022.03.08 05:50:54 INFO  Parse release: 1.8.0_292
+2022.03.08 05:50:54 INFO  time: initialize in 0.65s
+2022.03.08 05:50:55 WARN  Build server is not auto-connectable.
+2022.03.08 05:50:55 INFO  skipping build import with status 'Requested'
+2022.03.08 05:50:57 WARN  no build target for: /app/Functional Programming Principles in Scala (Scala 2 version)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 05:50:58 INFO  no build target found for /app/Functional Programming Principles in Scala (Scala 2 version)/week1/square-root/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.03.08 05:50:59 INFO  time: code lens generation in 1.8s
+2022.03.08 05:52:13 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 05:53:06 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 05:54:06 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals7280729908847835578/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 05:54:06 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals6347704974021737484/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 05:54:06 WARN  no build target for: /app/project/metals.sbt
+2022.03.08 05:54:06 WARN  no build target for: /app/project/project/metals.sbt
+2022.03.08 05:54:06 INFO  skipping build import with status 'Started'
+2022.03.08 05:54:07 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 05:54:07 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 05:54:08 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 05:54:08 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 05:54:08 INFO  [info] loading project definition from /app/project/project
+2022.03.08 05:54:08 INFO  [info] loading project definition from /app/project/project
+2022.03.08 05:54:14 INFO  [info] loading settings for project app-build from metals.sbt ...
+2022.03.08 05:54:14 INFO  [info] loading project definition from /app/project
+2022.03.08 05:54:17 INFO  user cancelled sbt bloopInstall
+2022.03.08 05:54:17 INFO  time: ran 'sbt bloopInstall' in 10s
+2022.03.08 05:54:17 INFO  user cancelled sbt bloopInstall
+2022.03.08 05:54:17 INFO  time: ran 'sbt bloopInstall' in 11s
+2022.03.08 05:54:32 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/getting-started/src/main/scala/example/Lists.scala
+2022.03.08 05:54:34 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/getting-started/src/test/scala/example/ListsSuite.scala
+2022.03.08 05:54:39 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 05:56:15 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 05:57:48 INFO  
+2022.03.08 05:57:48 INFO  Template applied in /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/./square-root
+2022.03.08 05:57:48 INFO  
+2022.03.08 05:57:48 INFO  time: ran 'giter8.Giter8' in 1.97s
+Mar 08, 2022 6:09:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.03.08 08:38:33 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+Mar 08, 2022 8:39:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 236
+2022.03.08 08:40:51 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 08:42:20 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 08:42:57 WARN  Build server is not auto-connectable.
+2022.03.08 08:42:58 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals9186009243541784883/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:42:59 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:42:59 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 08:43:00 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals8031737563157360827/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:43:00 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals3521921112101371653/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:43:00 INFO  [info] loading project definition from /app/project/project
+2022.03.08 08:43:01 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:43:00 INFO  [info] loading settings for project app-build from metals.sbt ...
+2022.03.08 08:43:00 INFO  [info] loading project definition from /app/project
+2022.03.08 08:43:01 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:43:01 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 08:43:01 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 08:43:02 INFO  [info] loading project definition from /app/project/project
+2022.03.08 08:43:02 INFO  [info] loading project definition from /app/project/project
+2022.03.08 08:43:02 INFO  [info] loading settings for project app-build from metals.sbt ...
+2022.03.08 08:43:02 INFO  [info] loading project definition from /app/project
+2022.03.08 08:43:02 INFO  [info] loading settings for project app-build from metals.sbt ...
+2022.03.08 08:43:03 ERROR [info] waiting for lock on /root/.ivy2/exclude_classifiers.lock to be available...
+2022.03.08 08:43:02 INFO  [info] loading project definition from /app/project
+2022.03.08 08:43:03 ERROR [info] waiting for lock on /root/.ivy2/exclude_classifiers.lock to be available...
+2022.03.08 08:43:04 INFO  user cancelled sbt bloopInstall
+2022.03.08 08:43:04 INFO  time: ran 'sbt bloopInstall' in 4.12s
+2022.03.08 08:43:05 INFO  user cancelled sbt bloopInstall
+2022.03.08 08:43:05 INFO  time: ran 'sbt bloopInstall' in 5.33s
+2022.03.08 08:45:14 INFO  [error] lmcoursier.internal.shaded.coursier.error.FetchError$DownloadingArtifacts: Error fetching artifacts:
+2022.03.08 08:45:14 INFO  [error] https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.5.7/zinc_2.12-1.5.7-sources.jar: download error: Caught java.net.ConnectException: Connection timed out (Connection timed out) (Connection timed out (Connection timed out)) while downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.5.7/zinc_2.12-1.5.7-sources.jar
+2022.03.08 08:45:14 INFO  [error] 
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.Artifacts$.$anonfun$fetchArtifacts$9(Artifacts.scala:346)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.util.Task$.$anonfun$flatMap$extension$1(Task.scala:14)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.util.Task$.$anonfun$flatMap$extension$1$adapted(Task.scala:14)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.util.Task$.wrap(Task.scala:84)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.util.Task$.$anonfun$flatMap$2(Task.scala:14)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+2022.03.08 08:45:14 INFO  [error] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+2022.03.08 08:45:14 INFO  [error] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+2022.03.08 08:45:14 INFO  [error] 	at java.lang.Thread.run(Thread.java:748)
+2022.03.08 08:45:14 INFO  [error] Caused by: lmcoursier.internal.shaded.coursier.cache.ArtifactError$DownloadError: download error: Caught java.net.ConnectException: Connection timed out (Connection timed out) (Connection timed out (Connection timed out)) while downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.5.7/zinc_2.12-1.5.7-sources.jar
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader$.helper$2(Downloader.scala:698)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader$.coursier$cache$internal$Downloader$$downloading(Downloader.scala:711)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader$Blocking$.$anonfun$remote$1(Downloader.scala:380)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.CacheLocks$.loop$1(CacheLocks.scala:72)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.CacheLocks$.withLockOr(CacheLocks.scala:98)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader$Blocking$.remote(Downloader.scala:382)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader.$anonfun$remote$5(Downloader.scala:480)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+2022.03.08 08:45:14 INFO  [error] 	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+2022.03.08 08:45:14 INFO  [error] 	at scala.util.Success.map(Try.scala:213)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+2022.03.08 08:45:14 INFO  [error] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+2022.03.08 08:45:14 INFO  [error] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+2022.03.08 08:45:14 INFO  [error] 	at java.lang.Thread.run(Thread.java:748)
+2022.03.08 08:45:14 INFO  [error] Caused by: java.net.ConnectException: Connection timed out (Connection timed out)
+2022.03.08 08:45:14 INFO  [error] 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+2022.03.08 08:45:14 INFO  [error] 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+2022.03.08 08:45:14 INFO  [error] 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+2022.03.08 08:45:14 INFO  [error] 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+2022.03.08 08:45:14 INFO  [error] 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+2022.03.08 08:45:14 INFO  [error] 	at java.net.Socket.connect(Socket.java:607)
+2022.03.08 08:45:14 INFO  [error] 	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:288)
+2022.03.08 08:45:14 INFO  [error] 	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1046)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1044)
+2022.03.08 08:45:14 INFO  [error] 	at java.security.AccessController.doPrivileged(Native Method)
+2022.03.08 08:45:14 INFO  [error] 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1043)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1570)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488)
+2022.03.08 08:45:14 INFO  [error] 	at java.security.AccessController.doPrivileged(Native Method)
+2022.03.08 08:45:14 INFO  [error] 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487)
+2022.03.08 08:45:14 INFO  [error] 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+2022.03.08 08:45:14 INFO  [error] 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:352)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.CacheUrl$.redirectTo(CacheUrl.scala:154)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.CacheUrl$.redirect(CacheUrl.scala:164)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.CacheUrl$.urlConnectionMaybePartial(CacheUrl.scala:311)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.ConnectionBuilder.connectionMaybePartial(ConnectionBuilder.scala:45)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader$Blocking$.doDownload(Downloader.scala:210)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader$Blocking$.$anonfun$remote$2(Downloader.scala:380)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader$.$anonfun$downloading$1(Downloader.scala:678)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.CacheLocks$.withUrlLock(CacheLocks.scala:116)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader$.helper$2(Downloader.scala:678)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader$.coursier$cache$internal$Downloader$$downloading(Downloader.scala:711)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader$Blocking$.$anonfun$remote$1(Downloader.scala:380)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.CacheLocks$.loop$1(CacheLocks.scala:72)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.CacheLocks$.withLockOr(CacheLocks.scala:98)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader$Blocking$.remote(Downloader.scala:382)
+2022.03.08 08:45:14 INFO  [error] 	at lmcoursier.internal.shaded.coursier.cache.internal.Downloader.$anonfun$remote$5(Downloader.scala:480)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+2022.03.08 08:45:14 INFO  [error] 	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+2022.03.08 08:45:14 INFO  [error] 	at scala.util.Success.map(Try.scala:213)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+2022.03.08 08:45:14 INFO  [error] 	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+2022.03.08 08:45:14 INFO  [error] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+2022.03.08 08:45:14 INFO  [error] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+2022.03.08 08:45:14 INFO  [error] 	at java.lang.Thread.run(Thread.java:748)
+2022.03.08 08:45:14 INFO  [error] (updateClassifiers) lmcoursier.internal.shaded.coursier.error.FetchError$DownloadingArtifacts: Error fetching artifacts:
+2022.03.08 08:45:14 INFO  [error] https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.5.7/zinc_2.12-1.5.7-sources.jar: download error: Caught java.net.ConnectException: Connection timed out (Connection timed out) (Connection timed out (Connection timed out)) while downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.5.7/zinc_2.12-1.5.7-sources.jar
+2022.03.08 08:45:14 INFO  [error] Total time: 133 s (02:13), completed Mar 8, 2022 8:45:14 AM
+2022.03.08 08:45:14 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)
+2022.03.08 08:45:14 INFO  [info] set current project to app (in build file:/app/)
+2022.03.08 08:45:14 INFO  [success] Generated .bloop/app-test.json
+2022.03.08 08:45:14 INFO  [success] Generated .bloop/app.json
+2022.03.08 08:45:14 INFO  [success] Total time: 0 s, completed Mar 8, 2022 8:45:14 AM
+2022.03.08 08:45:14 INFO  time: ran 'sbt bloopInstall' in 2m16s
+2022.03.08 08:45:14 INFO  Attempting to connect to the build server...
+2022.03.08 08:45:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:45:17 INFO  Attempting to connect to the build server...
+2022.03.08 08:45:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:45:17 INFO  time: Connected to build server in 2.84s
+2022.03.08 08:45:17 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:45:17 ERROR Empty build targets. Expected at least one build target identifier.
+2022.03.08 08:45:17 ERROR Empty build targets. Expected at least one build target identifier.
+2022.03.08 08:45:17 ERROR Empty build targets. Expected at least one build target identifier.
+2022.03.08 08:45:17 ERROR Empty build targets. Expected at least one build target identifier.
+2022.03.08 08:45:20 INFO  time: indexed workspace in 2.75s
+2022.03.08 08:45:20 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 08:45:46 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals226891858170090082/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:45:47 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:45:47 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 08:45:48 INFO  [info] loading project definition from /app/project/project
+2022.03.08 08:45:48 INFO  [info] loading settings for project app-build from metals.sbt ...
+2022.03.08 08:45:48 INFO  [info] loading project definition from /app/project
+2022.03.08 08:45:49 INFO  Disconnecting from Bloop session...
+2022.03.08 08:45:49 INFO  Shut down connection with build server.
+2022.03.08 08:45:49 INFO  Shut down connection with build server.
+2022.03.08 08:45:49 INFO  Attempting to connect to the build server...
+2022.03.08 08:45:50 INFO  [success] Generated .bloop/app-build.json
+2022.03.08 08:45:50 INFO  [success] Total time: 1 s, completed Mar 8, 2022 8:45:50 AM
+2022.03.08 08:45:50 INFO  [info] set current project to app (in build file:/app/)
+2022.03.08 08:45:50 INFO  [success] Generated .bloop/app.json
+2022.03.08 08:45:50 INFO  [success] Generated .bloop/app-test.json
+2022.03.08 08:45:50 INFO  [success] Total time: 0 s, completed Mar 8, 2022 8:45:50 AM
+2022.03.08 08:45:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:45:51 INFO  time: ran 'sbt bloopInstall' in 4.45s
+2022.03.08 08:45:51 INFO  Attempting to connect to the build server...
+2022.03.08 08:45:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:45:51 INFO  Attempting to connect to the build server...
+2022.03.08 08:45:50 INFO  Attempting to connect to the build server...
+2022.03.08 08:45:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:45:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:45:51 INFO  time: Connected to build server in 1.92s
+2022.03.08 08:45:51 INFO  time: Connected to build server in 0.17s
+2022.03.08 08:45:51 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:45:51 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:45:52 INFO  time: indexed workspace in 0.82s
+2022.03.08 08:45:51 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 08:45:52 INFO  time: indexed workspace in 0.92s
+2022.03.08 08:45:51 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 08:47:28 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 08:47:40 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals5851843221233366543/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:47:40 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals2584826296628955403/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:47:40 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals8505948413267023153/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:47:41 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:47:42 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:47:41 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 08:47:42 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:47:42 INFO  [info] loading project definition from /app/project/project
+2022.03.08 08:47:42 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals5835501299575264629/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:47:42 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 08:47:42 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals2181765286452991516/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:47:42 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 08:47:42 INFO  running '/usr/local/openjdk-8/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals6307301949966407787/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.08 08:47:42 INFO  [info] loading settings for project app-build from metals.sbt ...
+2022.03.08 08:47:43 INFO  [info] loading project definition from /app/project/project
+2022.03.08 08:47:42 INFO  [info] loading project definition from /app/project
+2022.03.08 08:47:43 INFO  [info] loading project definition from /app/project/project
+2022.03.08 08:47:43 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:47:44 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:47:43 INFO  [info] loading settings for project app-build from metals.sbt ...
+2022.03.08 08:47:44 INFO  [info] welcome to sbt 1.5.7 (Oracle Corporation Java 1.8.0_292)
+2022.03.08 08:47:44 INFO  [info] loading project definition from /app/project
+2022.03.08 08:47:43 INFO  [info] loading settings for project app-build from metals.sbt ...
+2022.03.08 08:47:44 ERROR [info] waiting for lock on /root/.ivy2/exclude_classifiers.lock to be available...
+2022.03.08 08:47:44 INFO  [info] loading project definition from /app/project
+2022.03.08 08:47:45 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 08:47:45 ERROR [info] waiting for lock on /root/.ivy2/exclude_classifiers.lock to be available...
+2022.03.08 08:47:45 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 08:47:45 INFO  [success] Generated .bloop/app-build.json
+2022.03.08 08:47:44 INFO  [info] loading settings for project app-build-build from metals.sbt ...
+2022.03.08 08:47:45 INFO  [success] Total time: 2 s, completed Mar 8, 2022 8:47:45 AM
+2022.03.08 08:47:45 INFO  [info] loading project definition from /app/project/project
+2022.03.08 08:47:45 INFO  [info] set current project to app (in build file:/app/)
+2022.03.08 08:47:45 INFO  [info] loading project definition from /app/project/project
+2022.03.08 08:47:45 INFO  [success] Generated .bloop/app-test.json
+2022.03.08 08:47:45 INFO  [success] Generated .bloop/app.json
+2022.03.08 08:47:45 INFO  [success] Total time: 0 s, completed Mar 8, 2022 8:47:46 AM
+2022.03.08 08:47:46 INFO  [info] loading project definition from /app/project/project
+2022.03.08 08:47:46 INFO  [info] loading settings for project app-build from metals.sbt ...
+2022.03.08 08:47:46 INFO  [info] loading project definition from /app/project
+2022.03.08 08:47:46 INFO  time: ran 'sbt bloopInstall' in 5.91s
+2022.03.08 08:47:46 INFO  Disconnecting from Bloop session...
+2022.03.08 08:47:46 INFO  Shut down connection with build server.
+2022.03.08 08:47:46 INFO  Shut down connection with build server.
+2022.03.08 08:47:46 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:46 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:46 ERROR [info] waiting for lock on /root/.ivy2/exclude_classifiers.lock to be available...
+2022.03.08 08:47:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:46 INFO  time: Connected to build server in 0.1s
+2022.03.08 08:47:46 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:47:46 INFO  [info] loading settings for project app-build from metals.sbt ...
+2022.03.08 08:47:46 INFO  [success] Generated .bloop/app-build.json
+2022.03.08 08:47:46 INFO  [info] loading project definition from /app/project
+2022.03.08 08:47:46 INFO  [success] Total time: 2 s, completed Mar 8, 2022 8:47:46 AM
+2022.03.08 08:47:46 INFO  [info] loading settings for project app-build from metals.sbt ...
+2022.03.08 08:47:46 ERROR [info] waiting for lock on /root/.ivy2/exclude_classifiers.lock to be available...
+2022.03.08 08:47:46 INFO  time: indexed workspace in 0.35s
+2022.03.08 08:47:46 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 08:47:46 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 08:47:46 INFO  [info] loading project definition from /app/project
+2022.03.08 08:47:46 INFO  [info] set current project to app (in build file:/app/)
+2022.03.08 08:47:47 ERROR [info] waiting for lock on /root/.ivy2/exclude_classifiers.lock to be available...
+2022.03.08 08:47:46 INFO  [success] Generated .bloop/app.json
+2022.03.08 08:47:46 INFO  [success] Generated .bloop/app-test.json
+2022.03.08 08:47:46 INFO  [success] Total time: 0 s, completed Mar 8, 2022 8:47:47 AM
+2022.03.08 08:47:47 INFO  time: ran 'sbt bloopInstall' in 6.6s
+2022.03.08 08:47:47 INFO  Disconnecting from Bloop session...
+2022.03.08 08:47:47 INFO  Shut down connection with build server.
+2022.03.08 08:47:47 INFO  Shut down connection with build server.
+2022.03.08 08:47:47 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:47 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:47 INFO  time: Connected to build server in 34ms
+2022.03.08 08:47:47 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:47:47 INFO  [success] Generated .bloop/app-build.json
+2022.03.08 08:47:47 INFO  [success] Total time: 3 s, completed Mar 8, 2022 8:47:47 AM
+2022.03.08 08:47:48 INFO  time: indexed workspace in 0.28s
+2022.03.08 08:47:47 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 08:47:47 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 08:47:47 INFO  [info] set current project to app (in build file:/app/)
+2022.03.08 08:47:47 INFO  [success] Generated .bloop/app.json
+2022.03.08 08:47:47 INFO  [success] Generated .bloop/app-test.json
+2022.03.08 08:47:47 INFO  [success] Total time: 0 s, completed Mar 8, 2022 8:47:48 AM
+2022.03.08 08:47:48 INFO  time: ran 'sbt bloopInstall' in 7.36s
+2022.03.08 08:47:48 INFO  Disconnecting from Bloop session...
+2022.03.08 08:47:47 INFO  Shut down connection with build server.
+2022.03.08 08:47:48 INFO  Shut down connection with build server.
+2022.03.08 08:47:48 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:48 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:48 INFO  time: Connected to build server in 0.11s
+2022.03.08 08:47:48 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:47:48 INFO  [success] Generated .bloop/app-build.json
+2022.03.08 08:47:48 INFO  [success] Total time: 2 s, completed Mar 8, 2022 8:47:48 AM
+2022.03.08 08:47:48 INFO  [info] set current project to app (in build file:/app/)
+2022.03.08 08:47:49 INFO  time: indexed workspace in 0.27s
+2022.03.08 08:47:49 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 08:47:49 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 08:47:48 INFO  [success] Generated .bloop/app-test.json
+2022.03.08 08:47:48 INFO  [success] Generated .bloop/app.json
+2022.03.08 08:47:48 INFO  [success] Total time: 0 s, completed Mar 8, 2022 8:47:49 AM
+2022.03.08 08:47:49 INFO  time: ran 'sbt bloopInstall' in 6.81s
+2022.03.08 08:47:49 INFO  Disconnecting from Bloop session...
+2022.03.08 08:47:49 INFO  Shut down connection with build server.
+2022.03.08 08:47:48 INFO  Shut down connection with build server.
+2022.03.08 08:47:48 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:48 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:49 INFO  time: Connected to build server in 0.11s
+2022.03.08 08:47:49 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:47:49 INFO  [success] Generated .bloop/app-build.json
+2022.03.08 08:47:49 INFO  [success] Total time: 3 s, completed Mar 8, 2022 8:47:49 AM
+2022.03.08 08:47:49 INFO  time: indexed workspace in 0.26s
+2022.03.08 08:47:49 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 08:47:49 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 08:47:49 INFO  [info] set current project to app (in build file:/app/)
+2022.03.08 08:47:49 INFO  [success] Generated .bloop/app.json
+2022.03.08 08:47:49 INFO  [success] Generated .bloop/app-test.json
+2022.03.08 08:47:49 INFO  [success] Total time: 0 s, completed Mar 8, 2022 8:47:50 AM
+2022.03.08 08:47:50 INFO  time: ran 'sbt bloopInstall' in 7.61s
+2022.03.08 08:47:50 INFO  Disconnecting from Bloop session...
+2022.03.08 08:47:49 INFO  Shut down connection with build server.
+2022.03.08 08:47:50 INFO  Shut down connection with build server.
+2022.03.08 08:47:50 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:50 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:50 INFO  time: Connected to build server in 71ms
+2022.03.08 08:47:50 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:47:50 INFO  [success] Generated .bloop/app-build.json
+2022.03.08 08:47:50 INFO  [success] Total time: 4 s, completed Mar 8, 2022 8:47:50 AM
+2022.03.08 08:47:50 INFO  time: indexed workspace in 0.28s
+2022.03.08 08:47:50 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 08:47:50 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 08:47:50 INFO  [info] set current project to app (in build file:/app/)
+2022.03.08 08:47:50 INFO  no build target found for /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt. Using presentation compiler with project's scala-library version: 2.12.14
+2022.03.08 08:47:50 INFO  [success] Generated .bloop/app.json
+2022.03.08 08:47:50 INFO  [success] Generated .bloop/app-test.json
+2022.03.08 08:47:50 INFO  [success] Total time: 0 s, completed Mar 8, 2022 8:47:51 AM
+2022.03.08 08:47:50 INFO  time: ran 'sbt bloopInstall' in 8.43s
+2022.03.08 08:47:50 INFO  Disconnecting from Bloop session...
+2022.03.08 08:47:50 INFO  Shut down connection with build server.
+2022.03.08 08:47:51 INFO  Shut down connection with build server.
+2022.03.08 08:47:51 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:51 INFO  Attempting to connect to the build server...
+2022.03.08 08:47:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:47:51 INFO  time: Connected to build server in 30ms
+2022.03.08 08:47:51 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:47:51 INFO  time: indexed workspace in 0.26s
+2022.03.08 08:47:51 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
+2022.03.08 08:47:51 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 08:48:28 INFO  shutting down Metals
+2022.03.08 08:48:28 INFO  Shut down connection with build server.
+2022.03.08 08:48:28 INFO  Shut down connection with build server.
+2022.03.08 08:49:46 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/lsp.trace.json or /root/.cache/metals/lsp.trace.json
+2022.03.08 08:49:47 INFO  logging to file /app/.metals/metals.log
+2022.03.08 08:49:47 INFO  Started: Metals version 0.11.1 in workspace '/app' for client Visual Studio Code 1.64.2.
+2022.03.08 08:49:47 INFO  Parse release: 1.8.0_292
+2022.03.08 08:49:47 INFO  time: initialize in 0.67s
+2022.03.08 08:49:48 INFO  Attempting to connect to the build server...
+2022.03.08 08:49:47 INFO  skipping build import with status 'Installed'
+2022.03.08 08:49:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:49:47 INFO  Attempting to connect to the build server...
+2022.03.08 08:49:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 08:49:48 INFO  time: Connected to build server in 0.14s
+2022.03.08 08:49:48 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 08:49:48 INFO  no build target found for /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt. Using presentation compiler with project's scala-library version: 2.12.14
+2022.03.08 08:49:49 INFO  time: indexed workspace in 0.89s
+2022.03.08 08:49:49 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 08:49:49 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 08:49:50 INFO  time: code lens generation in 2.33s
+2022.03.08 08:50:06 INFO  shutting down Metals
+2022.03.08 08:50:06 INFO  Shut down connection with build server.
+2022.03.08 08:50:06 INFO  Shut down connection with build server.
+2022.03.08 09:10:12 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/lsp.trace.json or /root/.cache/metals/lsp.trace.json
+2022.03.08 09:10:12 INFO  logging to file /app/.metals/metals.log
+2022.03.08 09:10:12 INFO  Started: Metals version 0.11.1 in workspace '/app' for client Visual Studio Code 1.64.2.
+2022.03.08 09:10:12 INFO  Parse release: 1.8.0_292
+2022.03.08 09:10:13 INFO  time: initialize in 0.7s
+2022.03.08 09:10:13 INFO  Attempting to connect to the build server...
+2022.03.08 09:10:13 INFO  skipping build import with status 'Installed'
+2022.03.08 09:10:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 09:10:14 INFO  Attempting to connect to the build server...
+2022.03.08 09:10:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /app/project/.metals/bsp.trace.json or /root/.cache/metals/bsp.trace.json
+2022.03.08 09:10:14 INFO  time: Connected to build server in 0.21s
+2022.03.08 09:10:14 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.08 09:10:15 INFO  no build target found for /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt. Using presentation compiler with project's scala-library version: 3.1.0
+2022.03.08 09:10:15 INFO  time: code lens generation in 1.9s
+2022.03.08 09:10:15 INFO  time: indexed workspace in 0.66s
+2022.03.08 09:10:16 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 09:10:16 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/build.sbt
+2022.03.08 10:50:13 WARN  no build target for: /app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/src/main/scala/Main.scala
