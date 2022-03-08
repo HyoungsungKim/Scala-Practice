@@ -22,14 +22,14 @@ object RecFun extends RecFunInterface {
    * Exercise 2
    */
   def balance(chars: List[Char]): Boolean = {
-    def loop(stackCount:Int, targetChars: List[Char]): Int = {
-      if (targetChars.isEmpty) stackCount
-      else if (targetChars.head == '(') loop(stackCount+1, targetChars.tail)
-      else if (targetChars.head == ')' && stackCount > 0) loop(stackCount-1, targetChars.tail)
-      else if (targetChars.head == ')' && stackCount <= 0) -1
-      else loop(stackCount, targetChars.tail)
+    def checkBalance(checker:Int, chars: List[Char]):Int = {
+      if (chars.isEmpty || checker < 0) checker
+      else if (chars.head == '(') checkBalance(checker+1, chars.tail)
+      else if (chars.head == ')') checkBalance(checker-1, chars.tail)
+      else checkBalance(checker, chars.tail)
     }
-    loop(0, chars) == 0
+
+    checkBalance(0, chars) == 0
   }
 
   /**
@@ -37,8 +37,17 @@ object RecFun extends RecFunInterface {
    */
   def countChange(money: Int, coins: List[Int]): Int = {
     if (money == 0) 1
+    else if (money > 0 && !coins.isEmpty)
+      countChange(money, coins.tail) + countChange(money - coins.head, coins)
+    else 0
+  }
+
+  /*
+  def countChange(money: Int, coins: List[Int]): Int = {
+    if (money == 0) 1
     else if (money > 0 && !coins.isEmpty) 
       countChange(money, coins.tail) + countChange(money - coins.head, coins)
     else 0
   }
+  */
 }
