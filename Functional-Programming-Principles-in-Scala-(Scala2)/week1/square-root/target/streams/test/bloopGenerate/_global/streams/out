@@ -1,4 +1,0 @@
-[debug] [square-root-test] Classpath dependencies List()
-[debug] [square-root-test] Dependencies from configurations List(square-root)
-[debug] Bloop wrote the configuration of project 'square-root-test' to '/app/Functional-Programming-Principles-in-Scala-(Scala2)/week1/square-root/.bloop/square-root-test.json'
-[success] Generated .bloop/square-root-test.json
