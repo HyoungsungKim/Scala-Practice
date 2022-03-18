@@ -39,7 +39,7 @@ abstract class QuickCheckHeap extends Properties("Heap") with IntHeap:
   }
   
   //Given any heap, you should get a sorted sequence of elements when continually finding and deleting minima. (Hint: recursion and helper functions are your friends.)
-  
+  // meld already works like this
 
   // Finding a minimum of the melding of any two heaps should return a minimum of one or the other.
   property("min4") = forAll {(h1: H, h2: H) =>
