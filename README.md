@@ -2,7 +2,7 @@
 
 1. Functional Programming Principles in Scala
 2. Functional Program Design in Scala
-3. Programming Reactive Systems
+~~ 3. Programming Reactive Systems ~~
 
 ## Docker-compose
 ```
